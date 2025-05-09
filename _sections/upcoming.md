@@ -8,9 +8,9 @@ order: 3
 
 #### Title: Emerging directions in limited-area AI-Driven Weather Forecasting
 
-Date: May 15, 2025  
+Date: May 16, 2025  
 Time: 12:00-12:55  
-Location: Building 303 aud. 049, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://maps.app.goo.gl/aJbjfGUTouAmjcXRA)  
+Location: Building 303 aud. 044, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://maps.app.goo.gl/aJbjfGUTouAmjcXRA)  
 Stream: [Zoom](https://dtumods.github.io/zoom)
 
 #### Abstract
