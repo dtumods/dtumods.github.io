@@ -10,7 +10,7 @@ order: 3
 
 Date: Nov. 26, 2025   
 Time: 12:00-12:55   
-Location:  TBD [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://maps.app.goo.gl/aJbjfGUTouAmjcXRA)   
+Location:  303A/aud. 43 [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://maps.app.goo.gl/aJbjfGUTouAmjcXRA)   
 Stream: [Zoom](https://dtumods.github.io/zoom)
 
 #### Abstract
