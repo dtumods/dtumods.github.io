@@ -8,9 +8,9 @@ order: 3
 
 #### Title: Multi-Task Neural Operators and Autoregressive Methods for PDEs
 
-Date: May 11, 2026
-Time: TBA
-Location: TBA      
+Date: May 11, 2026   
+Time: TBA   
+Location: TBA   
 Stream: [Zoom](https://dtumods.github.io/zoom)  
 
 #### Abstract
