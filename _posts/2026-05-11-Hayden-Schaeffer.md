@@ -1,6 +1,6 @@
 ---
 title: "Multi-Task Neural Operators and Autoregressive Methods for PDEs"
-speaker: Hayden Schaefer
+speaker: Hayden Schaeffer
 affiliation: University of California, Los Angeles
 featured-image: 
 youtube: https://www.youtube.com/embed/
